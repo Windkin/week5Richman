@@ -1,0 +1,16 @@
+{
+  "name": "CS5513-Week05-wrichman",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@testing-library/jest-dom": "^5.14.1",
+    "next": "^11.1.2"
+  }
+}
