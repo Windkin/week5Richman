@@ -6,7 +6,7 @@
   },
   { 
     "owner_id": 2,
-    "related_ids": [],
+    "related_ids": [1],
     "id": 2
   },
   { 
